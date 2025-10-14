@@ -159,8 +159,8 @@ const seed = async () => {
   await payload.create({
     collection:"users",
     data:{
-      email:"aldemirhuseyin50@gmail.com",
-      password:"demo",
+      email:"sfenkia@gmail.com",
+      password:"SfenkEnfly-2-z-3..",
       roles:["super-admin"],
       username:"admin",
       tenants:[
